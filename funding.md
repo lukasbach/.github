@@ -7,3 +7,5 @@ projects that helped you in any way.
 You can also support my projects by contributing in the form of collaborating in issues or discussions,
 helping others that have issues with using any projects, or contributing additions or fixes for reported
 issues.
+
+You can also contact me via contact@lukasbach.com if you have questions, ideas or comments.
