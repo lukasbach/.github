@@ -1,3 +1,3 @@
-<!-- Please assign @lukasbach as reviewer to this PR. Otherwise I might miss it. -->
-
 Fixes #0 <!-- Replace with Issue number -->
+
+@lukasbach <!-- Please leave the mention in, so that I get a notification about the PR -->
