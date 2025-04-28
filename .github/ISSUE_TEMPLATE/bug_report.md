@@ -31,7 +31,7 @@ You can help by providing additional details that are available to you, such as
 
   https://github.com/sponsors/lukasbach
 
-  I can also provide paid support or consultency to help you with integrating my project, or to prioritize your
+  I can also provide paid support or consultancy to help you with integrating my project, or to prioritize your
   issue. Feel free to contact me through contact@lukasbach.com, and we can find something that works for both
   of us :)
 -->
